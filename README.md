@@ -15,7 +15,7 @@ I'm a system engineer with 2+ years of experience in web development, I like lea
 - PHP
 - Wordpress
 
-![Logotipo de JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =200x)
+![Logotipo de JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
 ## Connect with me
 
