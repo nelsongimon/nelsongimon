@@ -12,6 +12,8 @@ I'm a system engineer with 2+ years of experience in web development, I like lea
 - TypeScript
 - Tailwind CSS
 - Laravel
+- PHP
+- Wordpress
 
 ## Connect with me
 
