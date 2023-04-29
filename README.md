@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **nelsongimon/nelsongimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-# Hola, soy [Nombre Completo]
+# Hi👋, I'm Nelson Gimón
 
-Soy ingeniero de sistemas con más de 2 años de experiencia en desarrollo web. Tengo experiencia en las siguientes tecnologías:
+I'm a system engineer with 2+ years of experience in web development, I like learning new skills and building projects.
+
+
+## Technologies & Tools
 
 - JavaScript
 - React
@@ -28,17 +31,6 @@ Soy ingeniero de sistemas con más de 2 años de experiencia en desarrollo web. 
 - Tailwind CSS
 - Laravel
 
-Me encanta aprender cosas nuevas y estar al tanto de las últimas tendencias tecnológicas.
+## Connect with me
 
-## Proyectos
-
-A lo largo de mi carrera, he trabajado en una variedad de proyectos. Algunos de mis proyectos más destacados incluyen:
-
-- [Proyecto 1](link al proyecto)
-- [Proyecto 2](link al proyecto)
-- [Proyecto 3](link al proyecto)
-
-## Contacto
-
-Puedes contactarme a través de mi [LinkedIn](link a LinkedIn). ¡Me encantaría saber de ti!
-
+[LinkedIn](https://www.linkedin.com/in/nelson-gimon/)
