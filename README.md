@@ -6,10 +6,10 @@ I'm a system engineer with 2+ years of experience in web development, I like lea
 ## Technologies & Tools
 
 - JavaScript
-- React
-- TypeScript
 - CSS
 - HTML
+- React
+- TypeScript
 - Tailwind CSS
 - Laravel
 
