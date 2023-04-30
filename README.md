@@ -22,5 +22,5 @@ I'm a system engineer with 2+ years of experience in web development, I like lea
 
 ## Connect with me
 
-[![Texto alternativo de la imagen](https://via.placeholder.com/150x150.png)](https://www.ejemplo.com)
+[![Connect with me](https://iili.io/HSH7IpV.png)](https://www.linkedin.com/in/nelson-gimon/)
 
