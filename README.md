@@ -24,7 +24,7 @@ I'm a system engineer with 2+ years of experience in web development, I like lea
   <img src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js-logo.png" alt="Logo de Next.js" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Tailwind_CSS_logo.svg" alt="Logo de Tailwind CSS" width="100">
   <img src="https://laravel.com/img/logomark.min.svg" alt="Logo de Laravel" width="100">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="Logo de PHP" width="100">
+  <img src="https://freeimage.host/i/HSHoWQf" alt="Logo de PHP" width="100">
 </div>
 
 
